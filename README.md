@@ -80,7 +80,7 @@ Figure 4: This shows the winning popup that appears when the player reaches the 
 
 ### Project Demo
 # Video
-https://drive.google.com/file/d/1uJR2NfLoEpfdsmp2gBRPl9t2VlhvGcem/view?usp=drive_link
+[https://drive.google.com/file/d/1uJR2NfLoEpfdsmp2gBRPl9t2VlhvGcem/view?usp=drive_link](https://drive.google.com/file/d/1uIlsDVnpEk3aQP_galdPFQJCQp4yxoiK/view?usp=sharing)
 
 This video demonstrates the interactive gameplay of our Mouse Maze Game, a fun and slightly annoying challenge where your mouse becomes your worst enemy. The objective is simple: reach the red exit square without touching any walls.
 
